@@ -1,4 +1,4 @@
-# adaptx_fixed
+# adaptx
 
 A new Flutter project.
 
