@@ -1,4 +1,4 @@
-# adaptx
+# ADAPTX
 
 A new Flutter project.
 
@@ -32,7 +32,7 @@ A new Flutter project.
 
 ## Getting Started
 
-1. Clone this repo:
+1.Clone this repo:
    git clone https://github.com/Amirthavarshini05/ADAPTX.git
    cd ADAPTX
 
@@ -50,18 +50,14 @@ A new Flutter project.
 
 ## About Me
 Developed by Amirthavarshini R U
-🔗 Linkedin: https://www.linkedin.com/in/amirthavarshini-r-u-34717b2a2
+Linkedin: https://www.linkedin.com/in/amirthavarshini-r-u-34717b2a2
 
-   
-   
+## Resources (for Flutter Beginners)
 
-
-
-A few resources to get you started if this is your first Flutter project:
+If you're new to Flutter, here are some helpful official guides:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [Flutter Documentation](https://docs.flutter.dev/)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+These resources are great for understanding the basics before diving into projects like AdaptX.
