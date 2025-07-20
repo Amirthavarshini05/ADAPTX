@@ -1,14 +1,6 @@
 # ADAPTX
 
-A new Flutter project.
-
-## Getting Started
-
-# AdaptX
-
 **AdaptX** is a personalized fitness and wellness mobile application built using **Flutter**, focused on adaptive workouts, real-time health monitoring, and mood-based recommendations. Designed to support users with varying health needs, AdaptX merges technology and well-being into one seamless experience.
-
----
 
 ## Features
 
@@ -19,16 +11,12 @@ A new Flutter project.
 - Cross-Platform Support (Android, iOS, Web)
 - Firebase Integration (Authentication, Firestore)
 
----
-
 ## Tech Stack
 
 - **Frontend:** Flutter (Dart)
 - **Backend:** Firebase
 - **IoT Integration:** ESP32, MAX30102, MQTT
 - **Mood Analysis:** Python (Scikit-Learn)
-
----
 
 ## Getting Started
 
